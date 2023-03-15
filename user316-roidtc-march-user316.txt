@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 user316    1001 4096 Mar 12 22:47 .
+drwxr-xr-x 5 root    root    4096 Mar 12  2021 ..
+-rw------- 1 user316 user316   82 Mar 12 22:47 .bash_history
+-rw-r--r-- 1 user316 user316    0 Mar 12 22:47 user316-roidtc-march-user316.txt
